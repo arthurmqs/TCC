@@ -1,0 +1,4 @@
+\item Aumento da confiabilidade do sistema de distribuição através geração térmica distribuída.
+\item Redução de custos com coleta, transporte, tratamento e disposição dos Resíduos Sólidos Urbanos
+\item Proporcionar eficiência energética através de processos integrados
+\item Possibilitar desenvolvimento local através da gestão social e educação ambiental

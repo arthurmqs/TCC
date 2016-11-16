@@ -1,0 +1,13 @@
+O consumo crescente, desenfreado e em excesso nos centros urbanos tem como consequência uma  grande quantidade de resíduos sólidos urbanos. Este padrão de consumo tem como consequência uma sobrecarrega dos sistemas de coleta e disposição do "lixo" em local adequado, de forma que o Estado é obrigado á direcionar grande volume de recursos para este fim. 
+			
+Este consumismo exige uma boa parcela da geração de energia para produção dos produtos. Observa-se uma tendencia na direção de se evitar a construção de grandes empreendimentos hidroelétricos e térmicos, devido à seus impactos socio ambientais. Assim, a oferta de energia gerada com fontes intermitentes, eólica e solar, tem se mostrado como uma alternativa de incremento do sistema de geração de energia elétrica. 
+
+Entretanto, para o sistema de distribuição de energia operar com confiabilidade, exige-se uma complementaridade com fontes de geração contínuas, de forma a garantir o atendimento à carga nos períodos de pouco vento e radiação solar. 
+
+O crescimento da inserção de fontes intermitentes tem preocupado as companhias de distribuição pois não há uma garantia absoluta do atendimento à carga e, além disso, elas [podem gerar?] geram instabilidade nos sistemas de distribuição.
+
+Como a demanda de energia elétrica tem crescido mais do que a oferta, o preço deste bem para o consumidor residencial fica cada vez mais alto. Uma das consequências do alto preço do kilo-Watt-hora é o incentivo da inserção de fontes alternativas de geração de energia elétrica, conectadas à rede de distribuição. Tal fato deve-se ao sistema de compensação implementado pela resolução 482 da Agência Nacional de Energia Elétrica (ANEEL) no ano de 2012.
+
+Neste contexto, deseja-se avaliar as possibilidades do uso de biogás proveniente dos resíduos sólidos urbanos para geração distribuida de energia elétrica, bem como incentivar a coleta seletiva dos materiais reaproveitáveis e recicláveis. 
+
+O do trabalho tem como objetivo incentivar o desenvolvimento local com gestão social através da educação ambiental, buscando descentralizar a geração de energia elétrica e otimizar o manejo dos resíduos sólidos urbanos.

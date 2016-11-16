@@ -1,0 +1,3 @@
+\item Modelar, implementar uma ferramenta de apoio à decisão baseado em uma metodologia multicriterial para estudos de caso do uso de biogás proveniente dos resíduos sólidos urbanos na geração distribuida de energia elétrica. 
+\item Usar no modelo critérios de natureza  ambiental, economica, técnica, social e política. 
+\item Apresentar resultados dos estudos de caso de modo à compor uma alternativa favorável a descentralização do manejo de resíduos sólidos urbanos e geração térmica distribuida.

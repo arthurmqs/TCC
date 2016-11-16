@@ -1,0 +1,38 @@
+PROBLEMÁTICA
+
+--------------------------------------------------------------------------------------------SITUAÇÃO PROBLEMA
+			Consumismo
+			Excesso de resíduos sólidos urbanos
+			Coleta dos resíduos sólidos urbanos
+			Disposição dos resíduos sólidos urbanos
+			Confiabilidade do sistema de distribuição de energia elétrica
+			Custo da energia elétrica para o consumidor residencial
+
+--------------------------------------------------------------------------------------------QUESTÕES NORTEADORAS
+			quais as consequencias da microgeração térmica a biogás conectadas ao sistema de distribuição?
+			qual impacto economico do sistema proposto?
+			qual impacto social do sistema proposto?
+			qual impacto ambiental do sistema proposto?
+			qual impacto financeiro do sistema proposto?
+			qual impacto político do sistema proposto?
+		
+--------------------------------------------------------------------------------------------ENFOQUE
+			manejo de resíduos solidos através da gestão social com o fim de geração de energia elétrica e fortalecimento de cooperativas de catadores de materiais recicláveis.
+			aumentar a confiabilidade dos sistemas de distribuição de energia
+			descentralizar coleta de residuos solidos
+			incentivar a reutilização e reciclagem dos RS
+			incentivar cenários favoráveis para criação de cooperativas de catadores
+			incentivar um desenvolvimento sustentável
+			incentivar a redução do consumismo
+			incentivar a educação ambiental
+--------------------------------------------------------------------------------------------PRINCIPAL CONTRIBUIÇÃO
+			ferramenta de apoio a decisão e implementação da PNRS
+			favorecer o uso de fontes alternativas de energia
+			proporcionar educação ambiental
+			
+--------------------------------------------------------------------------------------------HIPOTESES
+			aumentar a confiabilidade do sistema de distribuição de energia elétrica
+			reduzir gastos dos municipios com coleta, transporte e disposição dos RS
+			proporcionar eficiencia energética no contexto macro
+			favorecer o desenvolvimento local e gestão social
+			estimulo à educação ambiental

@@ -1,0 +1,5 @@
+O trabalho propõe uma forma de avaliação da implementação do uso do biogás proveniente dos resíduos sólidos urbanos para geração distribuida de energia elétrica. Além da geração de energia elétrica, busca-se propor alternativas na forma de avaliação da viabilidade que vão além da análise financeira. 
+
+	Através da uma metodologia multicriterial de apoio à decisão busca-se trazer aspéctos ambientais, sociais, operacionais, políticos e técnicos para dentro da avaliação da viabilidade da proposta. 
+
+	Deste modo, avaliando o impacto das externalidades de tal tecnologia, deseja-se buscar alternativas, integrando de forma transversal os pontos positivos e negativos, para sua implementação com base na politica nacional dos resíduos sólidos.

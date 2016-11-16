@@ -1,0 +1,19 @@
+ETAPAS DE DESENVOLVIMENTO
+	1. Revisão Bibliográfica
+			Conceitos básicos
+			Políticas públicas voltadas aos resíduos sólidos e geração distribuida. 
+			Gestão e Gerenciamento de RS
+			Estado da arte - Tecnologias de obtenção do Biogás
+			Estado da arte - Tecnologias de geração distribuida com Biogás
+			Metodologias Multicritério de Apoio a Decisão
+			Desenvolvimento local, gestão social
+			Pesquisa-Ação		
+	2. Modelagem da metodologia
+			EPA
+			determinação dos pontos de vista fundamentais
+			determinação dos pontos de vista elementares
+			determinação dos descritores
+	3. Implementação do modelo
+	4. Estudo de caso
+			Usar a ferramenta desenvolvida para avaliar o uso do biogás proveniente dos resíduos sólidos urbnanos para geração de energia térmica em diferentes contextos. 
+

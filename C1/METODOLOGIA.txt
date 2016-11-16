@@ -1,0 +1,11 @@
+METODOLOGIA
+
+A abordagem metodológica que melhor se enquadrou ao objetivos do trabalho é a multicritérios com base na teoria de utilidade multiatributo.
+
+A Teoria da Utilidade Multiatributo (MAUT) nada mais é que a Teoria da Utilidade aplicada a processos decisórios que consideram múltiplos critérios, muitas vezes conflituosos. Ela define uma funÇ˜ao utilidade multiatributo composta por fuç˜oes-utilidade individuais (MARGUERON, 2005).
+
+As metodologias multicriteriais para o apoio `a decis˜ao no planejamento energético visam um processo decisório com maior participação das esferas envolvidas. Tem-se constatado o início de uma significativa mudançaa no pensamento dos principais interessados em processos decisórios, considerando problemas de planejamento e gerenciamento de energia elétrica. Os projetos, geralmente, tendem a serem desenvolvidos e balizados através de um único critério: custos. 
+
+Porém, as análises monocriteriais vinculadas ao critério custos começaram a dar lugar a análises multicriteriais, considerando aspectos de natureza econômica, técnica, social e ambiental (BARIN, 2012).
+
+Os tomadores de decis˜ao devem considerar os atributos independentes em utilidade e também aditivamente independentes - principais condicionantes da MAUT para aplicar com segurança a forma aditiva da funçao-utilidade multiatributo, na qual inexistem interaç˜oes entre os atributos (MARGUERON, 2005).
