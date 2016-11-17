@@ -1,0 +1,10 @@
+% Encoding: UTF-8
+
+@MastersThesis{,
+  author = {Alexandre Barin},
+  title  = {METODOLOGIA PARA A ANÁLISE DOS EFEITOS DA GERAÇÃO DISTRIBUÍDA SOBRE AS CARACTERÍSTICAS OPERACIONAIS DOS SISTEMAS DE DISTRIBUIÇÃO UTILIZANDO TÉCNICAS MULTICRITERIAIS},
+  school = {Universidade Federal de Santa Maria},
+  year   = {2007},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
