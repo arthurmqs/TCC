@@ -1,2 +1,6 @@
 OBJETIVOS ESPECÍFICOS
 
+\item Estudar/Buscar/Propor alternativas para descentralização da coleta, manejo, tratamento e disposição dos RSU
+\item Avaliar o impacto da micro/mini geração térmica conectada ao sistema de distribuição de energia elétrica
+\item Explorar/propor/apresentar/estudar/incorporar/implementar o uso de metodologias participativas para o planejamento integrado de recursos
+\item Desenvolver um estudo de caso por meio de um software de simulação computacional
