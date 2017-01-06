@@ -1,10 +1,28 @@
 % Encoding: UTF-8
 
-@MastersThesis{,
+@MastersThesis{barind,
   author = {Alexandre Barin},
   title  = {METODOLOGIA PARA A ANÁLISE DOS EFEITOS DA GERAÇÃO DISTRIBUÍDA SOBRE AS CARACTERÍSTICAS OPERACIONAIS DOS SISTEMAS DE DISTRIBUIÇÃO UTILIZANDO TÉCNICAS MULTICRITERIAIS},
   school = {Universidade Federal de Santa Maria},
   year   = {2007},
+}
+
+@Book{pnrs,
+  title     = {Política Nacional de Resíduos Sólidos},
+  publisher = {Câmara dos Deputados},
+  year      = {2016},
+  author    = {Centro de Documentação e Informação},
+  editor    = {Coordenação Edições Câmara},
+  edition   = {3ª},
+}
+
+@InBook{Yoshida,
+  chapter   = {Capítulo 1 - COMPETENCIA E AS DIRETRIZES DA PNRS: CONFLITOS E CRITERIOS DE HARMONIZAÇÃO ENTRE AS DEMAIS LEGISLAÇÕES E NORMAS},
+  pages     = {731},
+  title     = {Política Nacional, Gestão e Gerenciamento de Resíduos Sólidos},
+  publisher = {Pontífica Universidade Católica de São Paulo},
+  author    = {Arlindo Philippi; Consuelo Yoshida},
+  editor    = {Editora Manole Ltda.},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

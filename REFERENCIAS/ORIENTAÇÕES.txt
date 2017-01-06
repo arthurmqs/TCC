@@ -1,0 +1,24 @@
+Citação Direta: Transcreve-se um parágrafo, uma frase ou uma expressão usando exatamente as mesmas palavras usadas pelo autor da obra consultada. A citação direta deve vir obrigatoriamente entre "aspas duplas" se contiver até três linhas. As citações textuais longas (mais de três linhas) devem constituir um parágrafo independente com um recuo de 4cm da margem esquerda. Nesse caso deve-se além do sobrenome do autor e o ano de publicação, incluir o número da página. Na citação direta, há duas situações:
+
+a) Autor inserido no texto: Lopes e Batista (2000, p. 32) confirmam os argumentos anteriores ao declararem que "a mudança de rumo das atividades realizadas é preocupante".
+
+b) Autor não inserido no texto: "fazendo um relatório com algumas notas de rodapé." (MCGREGOR, 1999, p. 5).
+
+Ao fazer-se uma citação direta, deve-se fazer a indicação da(s) página (s) de onde o texto foi copiado.
+Ex. Medeiros (2002, p.55)
+      (MEDEIROS, 2002, p. 55)
+
+Citação Indireta
+Quando reproduzimos as ideias de um autor sem fazer uma transcrição literal das palavras dele, estamos fazendo uma citação indireta, não havendo necessidade das aspas duplas e nem do destaque gráfico. A indicação da página é opcional.
+
+a) Autor inserido no texto: De acordo com Mello (2000) a ansiedade de biblioteca é caracterizada como um sentimento negativo.
+
+b) Autor não inserido no texto: De modo direto ou indireto o comportamento do pesquisador é afetado, pela informação encontrada. (SILVA et al. 1998).
+
+LATEX 
+
+citet{X} = autor (ano)
+
+citep{X} = (autor, ano)
+
+citealt{X} = autor ano
