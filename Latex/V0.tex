@@ -1,0 +1,143 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Universidade Federal de Santa Catarina             
+% Biblioteca Universitária                     
+%----------------------------------------------------------------------
+% Exemplo de utilização da documentclass ufscThesis
+%----------------------------------------------------------------------                                                           
+% (c)2010 Roberto Simoni (roberto.emc@gmail.com)
+%         Carlos R Rocha (cticarlo@gmail.com)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass{ufscThesis} % Definicao do documentclass ufscThesis
+
+
+%----------------------------------------------------------------------
+% Pacotes usados especificamente neste documento
+\usepackage{graphicx} % Possibilita o uso de figuras e gráficos
+\usepackage{color}    % Possibilita o uso de cores no documento
+
+
+\usepackage[brazil]{babel}
+
+\usepackage{nomencl} % Pacote necessário para a lista de siglas.
+
+\usepackage{epstopdf}
+\usepackage{mathcomp}
+\usepackage{gensymb}
+\usepackage[enable-survey]{pdfpages}    %para incluir pdf   [enable-survey]
+
+\usepackage{booktabs} % Para Tabelas
+\usepackage{subfig}
+\usepackage{float}
+\usepackage{url} % Para incluir links
+
+%----------------------------------------------------------------------
+% Comandos criados pelo usuário
+\newcommand{\afazer}[1]{{\color{red}{#1}}} % Para destacar uma parte a ser trabalhada
+
+%----------------------------------------------------------------------
+% Identificadores do trabalho
+% Usados para preencher os elementos pré-textuais
+\instituicao[a]{Universidade Federal de Santa Catarina} % Opcional
+\departamento[a]{Biblioteca Universitária}
+\curso[o]{Engenharia Elétrica}
+\documento[o]{Exemplo} % Opcional (Tese é o padrão)
+\titulo{UMA PROPOSTA AVALIAÇÃO INTEGRADA DO USO ENERGÉTICO DE RESÍDUOS
+SÓLIDOS URBANOS POR MEIO DA TEORIA DE UTILIDADE MULTIATRIBUTO
+(MAUT)}
+%\subtitulo{Versão Básica} % Opcional
+\autor{Arthur Mendonça Quinhones Siqueira}
+\grau{Graduação em Engenharia Elétrica}
+\local{Florianópolis} % Opcional (Florianópolis é o padrão)
+\data{Dia}{Março}{2017}
+\orientador[Orientadora]{Coelho}
+\coorientador[Coorientadora]{Sica}
+\coordenador[Coordenador]{Pacheco}
+
+
+
+\numerodemembrosnabanca{6} % Isso decide se haverá uma folha adicional
+\orientadornabanca{nao} % Se faz parte da banca definir como sim
+\coorientadornabanca{sim} % Se faz parte da banca definir como sim
+\bancaMembroA{Presidente da banca} %Nome do presidente da banca
+\bancaMembroB{Segundo membro}      % Nome do membro da Banca
+\bancaMembroC{Terceiro membro}     % Nome do membro da Banca
+\bancaMembroD{Quarto membro}       % Nome do membro da Banca
+%\bancaMembroE{Prof. quinto membro}       % Nome do membro da Banca
+%\bancaMembroF{Prof. sexto membro}        % Nome do membro da Banca
+%\bancaMembroG{Prof. sétimo membro}       % Nome do membro da Banca
+
+
+
+%\dedicatoria{Escrever bonitinho}{Arthur}
+
+
+
+
+
+
+\epigrafe{Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.}
+{Leonardo da Vinci}
+
+
+\textoResumo {Escrever aqui o Resumo}
+
+\palavrasChave {Palavras Chave}
+
+ 
+\textAbstract {Escrever aqui o Abstract}
+\keywords {KEYWORDS}
+
+%----------------------------------------------------------------------
+% Início do documento                                
+\begin{document}
+%--------------------------------------------------------
+% Elementos pré-textuais
+\capa  
+\folhaderosto[comficha] % Se nao quiser imprimir a ficha, é só não usar o parâmetro
+\folhaaprovacao
+\paginadedicatoria
+\paginaagradecimento
+\paginaepigrafe
+\paginaresumo
+\paginaabstract
+%\pretextuais % Substitui todos os elementos pre-textuais acima
+\listadefiguras % as listas dependem da necessidade do usuário
+\listadetabelas 
+\listadeabreviaturas
+\listadesimbolos
+\sumario
+%--------------------------------------------------------
+
+% Elementos textuais
+
+
+
+\include{Capitulos/01/chapter_01}
+\include{Capitulos/02/chapter_02}
+\include{Capitulos/06/chapter_06}
+\include{Capitulos/03/chapter_03} 
+\include{Capitulos/04/chapter_04}
+\include{Capitulos/05/chapter_05}
+
+
+
+\bibliographystyle{ufscThesis/ufsc-alf}
+\bibliography{bibliografia}
+
+
+%--------------------------------------------------------
+% Elementos pós-textuais
+
+%\apendice
+
+%\include{Apendices/A/apendice_A}
+
+
+
+%\anexo
+
+
+%\include{Anexos/A/anexo_A}
+
+
+\end{document}
